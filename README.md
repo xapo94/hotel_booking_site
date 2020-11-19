@@ -16,7 +16,9 @@ The project has 5 pages in total:
 Additional information: 
 
 Public folder contains all the pages available for the user to see, together with their css.
+
 App folder contains all the classes needed to add functionality to the project/pages.
+
 There is an available database as well, incase you want to experiment/test the functionalities.
 
 
